@@ -1,1 +1,1 @@
-first day using git
+My first day using git
